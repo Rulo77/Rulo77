@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="200"/>
 </div>
 <!--
 **Rulo77/Rulo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
